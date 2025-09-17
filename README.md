@@ -1,12 +1,9 @@
-## Hi there 👋
+ Hello there 👋, Im Skye, im a student with TripleTen to become a Software Engineer! I alread knew what software engineering was when I was in collage for my Graphic Design degree, I had to take a semester of coding and loved it! Im so exicted to be studing more about software engineering. 
 
-<!--
-**skyemgg/skyemgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I love anime and all things animated! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my Spots Project, this project has been challenging but enjoyable, not only is it the first project where i lean how to make the full webpage work but also geting to use Javascript!  
+- 🌱 I’m currently learning Javascript, im hopeing to work more with this program and make more awesome
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
